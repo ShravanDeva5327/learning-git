@@ -1,1 +1,2 @@
-# HEllo Git
+# Hello Git
+# written from ubuntu
